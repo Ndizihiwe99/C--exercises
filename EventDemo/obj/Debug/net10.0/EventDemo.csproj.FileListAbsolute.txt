@@ -1,0 +1,14 @@
+C:\Users\eugen\Desktop\C--exercises\EventDemo\bin\Debug\net10.0\EventDemo.exe
+C:\Users\eugen\Desktop\C--exercises\EventDemo\bin\Debug\net10.0\EventDemo.deps.json
+C:\Users\eugen\Desktop\C--exercises\EventDemo\bin\Debug\net10.0\EventDemo.runtimeconfig.json
+C:\Users\eugen\Desktop\C--exercises\EventDemo\bin\Debug\net10.0\EventDemo.dll
+C:\Users\eugen\Desktop\C--exercises\EventDemo\bin\Debug\net10.0\EventDemo.pdb
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\EventDemo.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\EventDemo.AssemblyInfo.cs
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\EventDemo.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\EventDemo.dll
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\refint\EventDemo.dll
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\EventDemo.pdb
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\EventDemo.genruntimeconfig.cache
+C:\Users\eugen\Desktop\C--exercises\EventDemo\obj\Debug\net10.0\ref\EventDemo.dll

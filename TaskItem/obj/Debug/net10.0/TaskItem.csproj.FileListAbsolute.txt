@@ -1,0 +1,15 @@
+C:\Users\eugen\Desktop\C--exercises\taskItem\bin\Debug\net10.0\TaskItem.exe
+C:\Users\eugen\Desktop\C--exercises\taskItem\bin\Debug\net10.0\TaskItem.deps.json
+C:\Users\eugen\Desktop\C--exercises\taskItem\bin\Debug\net10.0\TaskItem.runtimeconfig.json
+C:\Users\eugen\Desktop\C--exercises\taskItem\bin\Debug\net10.0\TaskItem.dll
+C:\Users\eugen\Desktop\C--exercises\taskItem\bin\Debug\net10.0\TaskItem.pdb
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\TaskItem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\TaskItem.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\TaskItem.AssemblyInfo.cs
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\TaskItem.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\TaskItem.sourcelink.json
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\TaskItem.dll
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\refint\TaskItem.dll
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\TaskItem.pdb
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\TaskItem.genruntimeconfig.cache
+C:\Users\eugen\Desktop\C--exercises\taskItem\obj\Debug\net10.0\ref\TaskItem.dll

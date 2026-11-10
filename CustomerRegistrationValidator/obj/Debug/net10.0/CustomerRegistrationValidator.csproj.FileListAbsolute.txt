@@ -1,0 +1,15 @@
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\bin\Debug\net10.0\CustomerRegistrationValidator.exe
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\bin\Debug\net10.0\CustomerRegistrationValidator.deps.json
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\bin\Debug\net10.0\CustomerRegistrationValidator.runtimeconfig.json
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\bin\Debug\net10.0\CustomerRegistrationValidator.dll
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\bin\Debug\net10.0\CustomerRegistrationValidator.pdb
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\CustomerRegistrationValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\CustomerRegistrationValidator.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\CustomerRegistrationValidator.AssemblyInfo.cs
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\CustomerRegistrationValidator.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\CustomerRegistrationValidator.sourcelink.json
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\CustomerRegistrationValidator.dll
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\refint\CustomerRegistrationValidator.dll
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\CustomerRegistrationValidator.pdb
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\CustomerRegistrationValidator.genruntimeconfig.cache
+C:\Users\eugen\Desktop\C--exercises\CustomerRegistrationValidator\obj\Debug\net10.0\ref\CustomerRegistrationValidator.dll

@@ -1,0 +1,15 @@
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\bin\Debug\net10.0\DiscountCalculator.exe
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\bin\Debug\net10.0\DiscountCalculator.deps.json
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\bin\Debug\net10.0\DiscountCalculator.runtimeconfig.json
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\bin\Debug\net10.0\DiscountCalculator.dll
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\bin\Debug\net10.0\DiscountCalculator.pdb
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\DiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\DiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\DiscountCalculator.AssemblyInfo.cs
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\DiscountCalculator.sourcelink.json
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\DiscountCalculator.dll
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\refint\DiscountCalculator.dll
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\DiscountCalculator.pdb
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\DiscountCalculator.genruntimeconfig.cache
+C:\Users\eugen\Desktop\C--exercises\DiscountCalculator\obj\Debug\net10.0\ref\DiscountCalculator.dll

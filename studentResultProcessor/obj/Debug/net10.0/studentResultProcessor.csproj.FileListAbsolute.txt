@@ -1,0 +1,15 @@
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\bin\Debug\net10.0\studentResultProcessor.exe
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\bin\Debug\net10.0\studentResultProcessor.deps.json
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\bin\Debug\net10.0\studentResultProcessor.runtimeconfig.json
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\bin\Debug\net10.0\studentResultProcessor.dll
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\bin\Debug\net10.0\studentResultProcessor.pdb
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\studentResultProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\studentResultProcessor.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\studentResultProcessor.AssemblyInfo.cs
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\studentResultProcessor.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\studentResultProcessor.sourcelink.json
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\studentResultProcessor.dll
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\refint\studentResultProcessor.dll
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\studentResultProcessor.pdb
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\studentResultProcessor.genruntimeconfig.cache
+C:\Users\eugen\Desktop\C--exercises\studentResultProcessor\obj\Debug\net10.0\ref\studentResultProcessor.dll

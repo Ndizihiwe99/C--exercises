@@ -1,0 +1,15 @@
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\bin\Debug\net10.0\TextFormatterSystem.exe
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\bin\Debug\net10.0\TextFormatterSystem.deps.json
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\bin\Debug\net10.0\TextFormatterSystem.runtimeconfig.json
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\bin\Debug\net10.0\TextFormatterSystem.dll
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\bin\Debug\net10.0\TextFormatterSystem.pdb
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\TextFormatterSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\TextFormatterSystem.AssemblyInfoInputs.cache
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\TextFormatterSystem.AssemblyInfo.cs
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\TextFormatterSystem.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\TextFormatterSystem.sourcelink.json
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\TextFormatterSystem.dll
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\refint\TextFormatterSystem.dll
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\TextFormatterSystem.pdb
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\TextFormatterSystem.genruntimeconfig.cache
+C:\Users\eugen\Desktop\C--exercises\TextFormatterSystem\obj\Debug\net10.0\ref\TextFormatterSystem.dll
